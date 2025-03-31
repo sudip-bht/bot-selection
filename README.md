@@ -51,7 +51,7 @@ A Python-based system for managing concurrent requests using a pool of bots with
 
 ### Bot Management & Selection Process
 
-The algorithm an optimized queue-based architecture to manage bot availability states:
+The algorithm use queue architecture to manage bot availability states:
 
 - Active Bots: Currently processing requests
 
